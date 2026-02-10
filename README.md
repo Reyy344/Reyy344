@@ -1,7 +1,7 @@
 # Hi Guys! I'm Reyy 👋 
 
 🚀 **Fullstack Web Developer in Progress**
-"Passionate about crafting clean, modern, and functional web apps"
+<p>"Passionate about crafting clean, modern, and functional web apps"</p>
 
 ---
 
